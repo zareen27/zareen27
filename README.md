@@ -6,8 +6,8 @@
   - [5 minutes DEMO of Thesis](https://www.youtube.com/watch?v=Gbb6nfq5Cj0)
 - <b> Crime Analysis Project: Handling Missing data, Multi Collinearity and Finding relationships (R, GLMs, AIC, ANOVA, residual & QQ-plots)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b> Best classifier for Binary Classification Problem (R, LDA, QDA, KNN, SVM, Confusion Matrix)</b>
+  - [5 mins video explaining advantages, disadvantages, individual accuracies and best classifier](https://youtu.be/qWDqTkYjkns)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
