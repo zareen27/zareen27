@@ -11,9 +11,11 @@
 - <b> Bikeshare Project with WA,CH and NY data</b>
   - [The program displays requested travel data and relevant statistics on trip data](https://github.com/zareen27/Bikeshare_project_WA_CH_NY.git)
 
-<h2>👨‍💻 Software Development Projects:</h2>
 
 <!--
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
