@@ -4,22 +4,16 @@
 
 - <b> Masters Thesis Project (R, GAMs, PCA, PopRMSE, RMSE, MAE and CV)</b>
   - [5 minutes DEMO of Thesis](https://www.youtube.com/watch?v=Gbb6nfq5Cj0)
-- <b> Crime Analysis Project: Handling Missing data, Multi Collinearity and Finding relationships (R, GLMs, AIC, ANOVA, residual & QQ-plots)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+<!-- - <b> Crime Analysis Project: Handling Missing data, Multi Collinearity and Finding relationships (R, GLMs, AIC, ANOVA, residual & QQ-plots)</b>
+  -  -->
 - <b> Best classifier for Binary Classification Problem (R, LDA, QDA, KNN, SVM, Confusion Matrix)</b>
   - [5 mins video explaining advantages, disadvantages, individual accuracies and best classifier](https://youtu.be/qWDqTkYjkns)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b> Bikeshare Project with WA,CH and NY data</b>
+  - [The program displays requested travel data and relevant statistics on trip data](https://github.com/zareen27/Bikeshare_project_WA_CH_NY.git)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -56,7 +50,7 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-
+-->
 
 <!--
 **zareen27/zareen27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
