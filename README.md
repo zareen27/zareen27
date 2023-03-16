@@ -12,7 +12,7 @@
   - [The program displays requested travel data and relevant statistics on trip data](https://github.com/zareen27/Bikeshare_project_WA_CH_NY.git)
 
 - <b> Spatial model with GeoR and Time series models like: ARMA, ARIMA project </b>
-  - [Spatial and Time series coursework] (https://drive.google.com/file/d/1wTxCD3u_tMt4TrpjEpz0SfKpIILJKHSU/view?usp=share_link)
+  - [ Spatial and Time series coursework ](https://drive.google.com/file/d/1wTxCD3u_tMt4TrpjEpz0SfKpIILJKHSU/view?usp=share_link)
 
 
 <!--
