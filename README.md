@@ -1,6 +1,6 @@
-<h1>Hello World, I'm Zareen! <br/><a href="https://github.com/zareen27">Data Analyst</a>, <a href="https://github.com/zareen27"> Software Developer</a></h1>
+<h1>Hello World, I'm Zareen! <br/><a href="https://github.com/zareen27">Data Scientist</a>, <a href="https://github.com/zareen27"> Software Developer</a></h1>
 
-<h2> 📈 Data Analysis Projects </h2>
+<h2> 📈 Data Science Projects </h2>
 
 - <b> Masters Thesis Project (R, GAMs, PCA, PopRMSE, RMSE, MAE and CV)</b>
   - [5 minutes DEMO of Thesis](https://www.youtube.com/watch?v=Gbb6nfq5Cj0)
