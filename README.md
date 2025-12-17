@@ -1,4 +1,4 @@
-<h1>Hello World, I'm Zareen! <br/><a href="https://github.com/zareen27">Data Scientist</a>, <a href="https://github.com/zareen27"> Software Developer</a></h1>
+<h1>Hello World, I'm Zareen! <br/><a href="https://github.com/zareen27">Data Scientist</a>, <a href="https://github.com/zareen27"> Software Engineer</a></h1>
 
 <h2> 📈 Data Science Projects </h2>
 
